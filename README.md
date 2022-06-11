@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @WeeAmigo11
+- 👀 I’m interested in Python, Java, NodeJS, HTML
+- 🌱 I’m currently learning Python, Java, NodeJS, HTML
