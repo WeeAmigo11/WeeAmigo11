@@ -1,3 +1,4 @@
-- 👋 Hi, I’m @WeeAmigo11
-- 👀 I’m interested in programming languages
-- 🌱 I’m currently learning Python, Java, NodeJS, HTML
+## **Здравствуйте, меня зовут @WeeAmigo11.** 
+🖖 Добро пожаловать на мой гитхаб-аккаунт.
+Я изучаю языки програмирования, в частности 🐍 _Python_
+
